@@ -26,4 +26,18 @@ class ListStrings {
     'O+',
     'O-'
   ];
+  static const List<String> maritalStatus = [
+    'Soltero/a'
+        'Casado/a'
+        'Divorciado/a'
+        'Separado/a en proceso judicial'
+        'Viudo/a'
+        'Concubinato'
+  ];
+  static const List<String> formNavigationTitles = [
+    'Datos de la cuenta',
+    'Datos del estudiante',
+    'Domicilio del estudiante',
+    'Datos de 2 contactos',
+  ];
 }

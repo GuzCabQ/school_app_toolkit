@@ -17,4 +17,24 @@ class StringsApp {
   static const String fieldShift = 'Turno*';
   static const String fieldLevel = 'Nivel educativo*';
   static const String fieldGrade = 'Grado*';
+  static const String fieldStreet = 'Calle*';
+  static const String fieldInternalNumber = 'Número interior*';
+  static const String fieldExternalNumber = 'Número exterior';
+  static const String fieldColony = 'Colonia*';
+  static const String fieldMunicipality = 'Municipio*';
+  static const String fieldState = 'Estado*';
+  static const String fieldPostalCode = 'Código postal*';
+  static const String fieldReference = 'Referencia';
+  static const String fieldBetweenStreet = 'Entre calle';
+  static const String fieldBetweenStreetTwo = 'Entre calle 2';
+  static const String fieldKinship = 'Parentesco';
+  static const String fieldHomePhone = 'Teléfono de casa';
+  static const String fieldMobilePhone = 'Telefono celular';
+  static const String fieldEmail = 'Correo electrónico';
+  static const String fieldPassword = 'Contraseña';
+  static const String fieldConfirmPassword = 'Confirma contraseña';
+  static const String fieldMaritalStatus = 'Estado civil';
+  static const String fieldEducationLevel = 'Nivel de estudios';
+  static const String fieldSocialNetworks = 'Redes sociales';
+  static const String fieldOccupation = 'Ocupación';
 }
