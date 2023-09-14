@@ -9,7 +9,7 @@ class StringsApp {
   static const String fieldHeight = 'Estatura';
   static const String fieldWeight = 'Peso';
   static const String fieldBloodType = 'Tipo de sangre';
-  static const String fieldnumberPeopleLivingWith =
+  static const String fieldnumberPeopleLivingInHome =
       '¿Cuántas personas viven en su casa?';
   static const String fieldlivingWith = '¿Con quién vive el alumno?';
   static const String fieldspecifyLivingWith = 'Especificar con quien vive';

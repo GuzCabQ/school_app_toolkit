@@ -8,9 +8,9 @@ class FormValidators {
       }
     }
 
-    final RegExp fechaExp = RegExp(r'^\d{4}-\d{2}-\d{2}$');
+    final RegExp fechaExp = RegExp(r'^\d{2}\/\d{2}\/\d{4}$');
     if (!fechaExp.hasMatch(value)) {
-      return 'Ingrese la fecha en el formato correcto: YYYY-MM-DD.';
+      return 'Ingrese la fecha en el formato correcto: DD/MM/YYYY.';
     }
 
     return null;
